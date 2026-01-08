@@ -1,27 +1,29 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=C55A11&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Paulo!;Assistente+de+T.I.+%26+Infraestrutura;Desenvolvedor+Fullstack+(Next.js);Estudante+de+An%C3%A1lise+de+Sistemas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1E22A8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Paulo!;Systems+Analyst;Founder+%40+Pillar+IT;Fullstack+Developer+(Next.js)" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Construindo soluções em TI e Web 🚀</h3>
+<h3 align="center">Architecting Scalable Web Solutions 🚀</h3>
 
 <div align="center">
   
   ---
   
-  ### 👨‍💻 Sobre Mim
+  ### 👨‍💻 About Me
   
-  Atuo profissionalmente como **Assistente de T.I**, focado em infraestrutura, suporte e automação de processos, enquanto desenvolvo soluções web modernas como freelancer e empreendedor na **Pillar IT**.
+  I am a **Systems Analyst** and the founder of **Pillar IT**, with years of experience bridging the gap between IT infrastructure and software development. 
   
-  - 🔭 **Trabalhando atualmente:** Automação com Python/n8n e Projetos Freelance em Next.js.
-  - 🌱 **Estudando:** Arquitetura de Software e DevOps.
-  - 💼 **Experiência:** Suporte ERP (Protheus), Redes, Hardware e Desenvolvimento Web.
-  - 🎮 **Hobby:** PC Building, Football Manager e King of Fighters.
+  My focus is on delivering high-performance web applications and automating complex business processes. I combine deep technical knowledge in ERP systems and infrastructure with modern Fullstack development to create solutions that drive efficiency.
+  
+  - 🔭 **Current Focus:** Leading projects at **Pillar IT** & Building SaaS solutions with **Next.js**.
+  - 💼 **Experience:** Systems Analysis, ERP Support (Protheus), Infrastructure, and Fullstack Development.
+  - 🌱 **Learning:** Software Architecture & DevOps Engineering.
+  - ⚡ **Fun fact:** I balance coding with building custom PCs and managing virtual teams in Football Manager.
 
   ---
 
 </div>
 
-<h3 align="center">🛠️ Tech Stack & Ferramentas</h3>
+<h3 align="center">🛠️ Tech Stack & Arsenal</h3>
 
 <div align="center">
 
@@ -48,27 +50,27 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloEncarn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEncarn&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloEncarn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEncarn&layout=compact&theme=tokyonight&hide_border=true"/>
   </div>
 </div>
 
 <div align="center">
   <br/>
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=PauloEncarn&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=d%2Fm%2FY" alt="GitHub Streak" />
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=PauloEncarn&theme=tokyonight&hide_border=true&locale=en&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center"> 
-  <h3>📫 Onde me encontrar</h3>
+  <h3>📫 Let's Connect</h3>
   <a href="https://www.linkedin.com/in/paulo-encarna%C3%A7%C3%A3o-03069412b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/pauloencarn/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:contato@pillarit.com.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
