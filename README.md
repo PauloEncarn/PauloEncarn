@@ -49,17 +49,14 @@
 <br/>
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloEncarn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEncarn&layout=compact&theme=tokyonight&hide_border=true"/>
-  </div>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PauloEncarn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEncarn&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <br/>
+  <br />
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=PauloEncarn&theme=tokyonight&hide_border=true&locale=en&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
 </div>
-
 <br/>
 
 <div align="center"> 
