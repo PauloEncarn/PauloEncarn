@@ -48,17 +48,6 @@
 
 <br/>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PauloEncarn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEncarn&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=PauloEncarn&theme=tokyonight&hide_border=true&locale=en&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
-</div>
-<br/>
-
 <div align="center"> 
   <h3>📫 Let's Connect</h3>
   <a href="https://www.linkedin.com/in/paulo-encarna%C3%A7%C3%A3o-03069412b/" target="_blank">
